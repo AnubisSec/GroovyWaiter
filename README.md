@@ -35,6 +35,6 @@ http://jenkinsserver3:8080
 
 Heavily redacted since I don't have time to set up multiple Jenkins instances, but you get the idea:
 
-![Scan across all servers](images/GroovyWaiter1.png)
+![Scan across all servers](/images/GroovyWaiter1.png)
 
-![Running id/whoami on all successful hosts](images/GroovyWaiter2.png)
+![Running id/whoami on all successful hosts](/images/GroovyWaiter2.png)
