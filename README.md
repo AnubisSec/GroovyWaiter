@@ -31,3 +31,10 @@ http://jenkinsserver2.company.com
 http://jenkinsserver3:8080
 ```
 
+# Pics or it didn't happen
+
+Heavily redacted since I don't have time to set up multiple Jenkins instances, but you get the idea:
+
+![Scan across all servers](images/GroovyWaiter1.png)
+
+![Running id/whoami on all successful hosts](images/GroovyWaiter2.png)
